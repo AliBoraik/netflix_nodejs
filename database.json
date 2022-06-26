@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "postgres",
+    "password": "russiamedved",
+    "host": "localhost",
+    "port": 5432,
+    "database": "netflix"
+  }
+}
