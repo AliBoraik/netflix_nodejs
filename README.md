@@ -81,5 +81,4 @@ The application provides the following routes:
 
 - Routes for subscription-related operations are defined in the /subscription router.
 
-## Usage
 
